@@ -16,15 +16,6 @@ Struggling to decide what to eat? 🤔 Let **"ne yiyoz?"** decide for you! Just 
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Flutter** – For building a beautiful, cross-platform UI.  
-- **Dart** – Core logic implementation.  
-- **Provider** – State management solution.  
-- **Custom Wheel Widget** – For smooth and responsive spinning animations.  
-
----
-
 ## 📸 Screenshots
 ![Yemeğiniz_de_kararsız_mı_kaldınız__1_-removebg-preview](https://github.com/user-attachments/assets/82a92a22-c427-4e31-9472-793fbc97e775)
 ![Yemeğiniz_de_kararsız_mı_kaldınız-removebg-preview](https://github.com/user-attachments/assets/44de93b8-b0dc-45da-be48-f974121361e7)
